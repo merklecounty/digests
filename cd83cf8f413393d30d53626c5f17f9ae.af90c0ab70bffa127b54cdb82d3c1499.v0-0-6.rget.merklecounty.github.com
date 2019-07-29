@@ -1,0 +1,5 @@
+d4cb7fc206cbd147b3397c1e1b88513831c9780fc9675bebc300112365979465  rget-v0.0.6-linux-arm.tar.gz
+7239591ab580c911738130cc62d8a5cd9c6c05c79fa7abfdf32bad0d68a70844  rget-v0.0.6-windows-amd64.tar.gz
+18908181de67376c12b7e34de7c3e4aeaddc24cebab8c7d8115cf31dfbe236f2  rget-v0.0.6-linux-amd64.tar.gz
+38c6ee23c7f5fbdc7ef207dda25d8e030c8300fa94d71b6b4adc878af9343ba8  rget-v0.0.6-linux-arm64.tar.gz
+5b64ee638b847ca72dc1d029437d69e987d439ff420135241687975c6ca2484a  rget-v0.0.6-darwin-amd64.tar.gz
