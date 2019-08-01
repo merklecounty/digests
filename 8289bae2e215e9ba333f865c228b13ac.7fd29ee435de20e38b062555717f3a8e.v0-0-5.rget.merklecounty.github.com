@@ -1,0 +1,5 @@
+bbe48c0df2cf97a764442240350bf161ae027636730a458b08f08e783c46f694  rget-v0.0.5-darwin-amd64.tar.gz
+40a463db5758bb06e89429ef7cceb6722e81d06eabd46730f0d0ded15afef452  rget-v0.0.5-linux-arm64.tar.gz
+68a26e18191a57bfeca7bcd8251e066f7fc867394b032bcd92b87ac13cb78ca5  rget-v0.0.5-linux-arm.tar.gz
+5035f2ca48991c42c694981ad36a7fe591dfaf61ac878d154c98ec50b46e4961  rget-v0.0.5-linux-amd64.tar.gz
+6a7608bde745504ab2ff1ea4e931cae05d6626b193af2d1ad918ede2ffbd8f72  rget-v0.0.5-windows-amd64.tar.gz
