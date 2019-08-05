@@ -1,0 +1,15 @@
+c22f07725b895c5c96eef6d9dc209436fd3814f5d45df1a8e3328e52031c4af3  https://github.com/solokeys/solo/releases/download/2.4.2/bootloader-nonverifying-2.4.2.hex
+854267a258aeaee5679e071b9961bd39d50d92d9fc00345992f9fed6163ab3d2  https://github.com/solokeys/solo/releases/download/2.4.2/bootloader-nonverifying-2.4.2.sha2
+ca899cf65c98a625cdfa34033fab81c558fd3e59ea445b6dc44b9093ee1d9e83  https://github.com/solokeys/solo/releases/download/2.4.2/bootloader-verifying-2.4.2.hex
+0047121f80c09b2bc9e408040cf306e4dbbc133755dbb073db603640ed9a754a  https://github.com/solokeys/solo/releases/download/2.4.2/bootloader-verifying-2.4.2.sha2
+c34c6abfd222ce3547b13266e57c47507eab142de2b30e9704880e545bf1df47  https://github.com/solokeys/solo/releases/download/2.4.2/bundle-hacker-2.4.2.hex
+973f4d32a2f632228c3bc21938e8056f7081cd561cd9e944c159ff1cd092a5bf  https://github.com/solokeys/solo/releases/download/2.4.2/bundle-hacker-2.4.2.sha2
+93d7e8c04b2afb8a7fb5830c7015edb7611feae1aaf999fd3715a81778c251ad  https://github.com/solokeys/solo/releases/download/2.4.2/firmware-hacker-2.4.2.hex
+256471f73501ec9177df04082a786b47a5f9b3ee7add5d5b1d0485b4b2ca13ea  https://github.com/solokeys/solo/releases/download/2.4.2/firmware-hacker-2.4.2.sha2
+e078142e2f1f7d06a3763eeff9d7739e51dc90ef3dd60239f0af202156477b81  https://github.com/solokeys/solo/releases/download/2.4.2/firmware-secure-2.4.2.hex
+fd001cda3457013d009c28ece03f793c7bc95f1f7936983a6925044ca0ff4879  https://github.com/solokeys/solo/releases/download/2.4.2/firmware-secure-2.4.2.json
+e2c5d6a3962e15094319c45393e63eceefde7d3e1c00619059a086bc1a2653d3  https://github.com/solokeys/solo/releases/download/2.4.2/firmware-secure-2.4.2.sha2
+5b7caec22749fcd2a40c2dd6b3ed64c1dc86348da841b227a048224ccd3111be  https://api.github.com/repos/solokeys/solo/zipball/2.4.2
+177b8db8f629398d3234f8e65603a000daacea8136f50c5b79c27b8cb3c3ea4c  https://api.github.com/repos/solokeys/solo/tarball/2.4.2
+2b67e73129422b9fb62a519bed6420db71d2a6df8b9dfc17ef0ee0c1007effed  https://github.com/solokeys/solo/archive/2.4.2.tar.gz
+1dfd1dfca9b7f10d1e5700966d50e1af205ef8e4f06a675b225bcdf2f88ae26c  https://github.com/solokeys/solo/archive/2.4.2.zip
