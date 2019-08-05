@@ -1,0 +1,10 @@
+5b3a8299e9f2f6480c52d27637ce9504952116164a0ff8dee02164b99b9e5b95  https://github.com/dmbaturin/soupault/releases/download/1.1/soupault-1.1-linux-x86_64.tar.gz
+e22ff8644182adf2d479397fdb1fe2d31c521a34b95386a2cdfc5321cec96191  https://github.com/dmbaturin/soupault/releases/download/1.1/soupault-1.1-linux-x86_64.tar.gz.asc
+47c4beff11006f33b13404891bc3efe0b464087b92e0db954d236728b77defe4  https://github.com/dmbaturin/soupault/releases/download/1.1/soupault-1.1-macos.tar.gz
+8f0a4bb3a38bfebafeb3fc9eecde0e7c41263c588d08a78d17a0d53282c3fc64  https://github.com/dmbaturin/soupault/releases/download/1.1/soupault-1.1-macos.tar.gz.asc
+02b83a36a1e961fd38752b6e313186cdd2e7a86fa804f4a561c5fc6fe87f9613  https://github.com/dmbaturin/soupault/releases/download/1.1/soupault-1.1-win32.zip
+e4b14bcf77d709708bca93687dfb98e50905ec6939216a7437c66a9c42c24edc  https://github.com/dmbaturin/soupault/releases/download/1.1/soupault-1.1-win32.zip.asc
+6f97db23587004c658c1fdf62ec933b4f1ffdc2b21e10374b3c01be6307760fa  https://api.github.com/repos/dmbaturin/soupault/zipball/1.1
+0f664a8ab337ac1a3226c6ccfc58cb4ac169510f085e5273b6ebd0687ae52183  https://api.github.com/repos/dmbaturin/soupault/tarball/1.1
+c7bfa53c13dd1a28fe93738a344a3be8b01f8ee499240cf3ce58e081dff01a9e  https://github.com/dmbaturin/soupault/archive/1.1.tar.gz
+eaa7960d37029a3a1318bd573664dae68dbbcdc54fc49bb00cb6ffdc451b98a5  https://github.com/dmbaturin/soupault/archive/1.1.zip
