@@ -1,0 +1,19 @@
+faf40049a245d7a8adbdb90e64bf8808ac72d6fec802d8ae60632b746873fa6e  https://github.com/etcd-io/etcd/releases/download/v3.3.13/etcd-v3.3.13-darwin-amd64.zip
+a827e9b2cbabd435761264efe56518da33d20974ca30993864555d8c1df3ada5  https://github.com/etcd-io/etcd/releases/download/v3.3.13/etcd-v3.3.13-darwin-amd64.zip.asc
+b08466ed56b7f797bdec7d3da44ca12d63f8af4e43adee5764e801d24018bc0a  https://github.com/etcd-io/etcd/releases/download/v3.3.13/etcd-v3.3.13-linux-aarch64.aci
+7460c3834661d887424770d595403376ced49855a842ca30e9ca7c95eb38fb60  https://github.com/etcd-io/etcd/releases/download/v3.3.13/etcd-v3.3.13-linux-aarch64.aci.asc
+79c4e528f7fe921b97fe45021dec5b471b0ca63e5482786f173434509a747d48  https://github.com/etcd-io/etcd/releases/download/v3.3.13/etcd-v3.3.13-linux-amd64.aci
+afbad1f7dbeae2f0fea7f1a8fe8768c24c07d99d6e857fe56ca1756fb50a551a  https://github.com/etcd-io/etcd/releases/download/v3.3.13/etcd-v3.3.13-linux-amd64.aci.asc
+2c2e2a9867c1c61697ea0d8c0f74c7e9f1b1cf53b75dff95ca3bc03feb19ea7e  https://github.com/etcd-io/etcd/releases/download/v3.3.13/etcd-v3.3.13-linux-amd64.tar.gz
+7f2416f466ae92b8d338eb191f062bb5b7d0cb7d2c06d9e6a8ad91cf35a96ceb  https://github.com/etcd-io/etcd/releases/download/v3.3.13/etcd-v3.3.13-linux-amd64.tar.gz.asc
+ff76e534db8378f112b48c445944069fc9923bef04dae4d66e36801da13cc8a1  https://github.com/etcd-io/etcd/releases/download/v3.3.13/etcd-v3.3.13-linux-arm64.tar.gz
+b47ea71dd256b8f3b47b072a1b4946e12ddcf670319e5038ee83fe81804bbeee  https://github.com/etcd-io/etcd/releases/download/v3.3.13/etcd-v3.3.13-linux-arm64.tar.gz.asc
+6e5393ef6779a9b764cf274ff7faac038b7378a39195551e837b7bc6ff04a9ce  https://github.com/etcd-io/etcd/releases/download/v3.3.13/etcd-v3.3.13-linux-ppc64le.tar.gz
+f543af9f42a5adb7316c630490ffdb0694679e297422b7f417f2caba73b3dfe3  https://github.com/etcd-io/etcd/releases/download/v3.3.13/etcd-v3.3.13-linux-ppc64le.tar.gz.asc
+718953a44005b2f53075699204c63e2d0a8227a52060eff178c7047d42bc3cb1  https://github.com/etcd-io/etcd/releases/download/v3.3.13/etcd-v3.3.13-windows-amd64.zip
+76f0d7d41bf125ca2d87979b4ae19f41d46aece404c51995ffd360f75044637e  https://github.com/etcd-io/etcd/releases/download/v3.3.13/etcd-v3.3.13-windows-amd64.zip.asc
+2f8736b8d774fb7af53dc038272c3bf015b8acf53a03eb875d0f7b5c79041355  https://api.github.com/repos/etcd-io/etcd/zipball/v3.3.13
+4e974b3cceb06bab436edbe827548a8ade5d9f6b09772b25bf9a8b691a369ddc  https://api.github.com/repos/etcd-io/etcd/tarball/v3.3.13
+02df2eb25d67dafc355d19a91791f686fcf59b04cea46110c3a11fcd5e365100  https://github.com/etcd-io/etcd/archive/v3.3.13.tar.gz
+c21acf896a3f8b22df711af8df0ec0d49cfbd4daf38d0a1492e27fb8cc951452  https://github.com/etcd-io/etcd/archive/v3.3.13.zip
+
