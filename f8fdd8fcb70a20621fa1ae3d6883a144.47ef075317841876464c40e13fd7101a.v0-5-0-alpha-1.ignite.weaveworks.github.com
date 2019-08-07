@@ -66,7 +66,7 @@
   
   <meta name="pjax-timeout" content="1000">
   
-  <meta name="request-id" content="D2F6:37A4:BBCC1:141D1B:5D4A6005" data-pjax-transient>
+  <meta name="request-id" content="D2F6:37A4:BC05F:141D6F:5D4A6008" data-pjax-transient>
 
 
   
@@ -77,7 +77,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D2F6:37A4:BBCC1:141D1B:5D4A6005" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D2F6:37A4:BC05F:141D6F:5D4A6008" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
 
 
 
@@ -95,11 +95,11 @@
     <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ODM0YzgyNDViZDJhNjg5ZDYwM2UyMjQzOWU4MmJjZmNmMThmNjJlOWYwYzI4YmUyMmYwNDhjMzllNzU4ODBkMXx7InJlbW90ZV9hZGRyZXNzIjoiMzUuMTkzLjc1LjIzMiIsInJlcXVlc3RfaWQiOiJEMkY2OjM3QTQ6QkJDQzE6MTQxRDFCOjVENEE2MDA1IiwidGltZXN0YW1wIjoxNTY1MTU1MzM0LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="MTIwZGFhOGNiMTQ3NzE3YmY3M2U5YWJlOThjODM3ZDMzN2YwYjYzOThkYjZkNzkxOTRkZmIxMGM3MmM4ZDk1M3x7InJlbW90ZV9hZGRyZXNzIjoiMzUuMTkzLjc1LjIzMiIsInJlcXVlc3RfaWQiOiJEMkY2OjM3QTQ6QkMwNUY6MTQxRDZGOjVENEE2MDA4IiwidGltZXN0YW1wIjoxNTY1MTU1MzkyLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS">
 
-  <meta name="html-safe-nonce" content="dd6c9fe269482054a19796c463f644cc83397fa0">
+  <meta name="html-safe-nonce" content="70d6f9d0eb3dc3ad901de79792a2b33150262ae0">
 
   <meta http-equiv="x-pjax-version" content="8cc0398d552c367863d4cb77f7fff498">
   
@@ -153,7 +153,7 @@
         <div class="d-flex flex-items-center">
             <a href="/join?source=header"
               class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;D2F6:37A4:BBCC1:141D1B:5D4A6005&quot;,&quot;originating_url&quot;:&quot;https://github.com/weaveworks/ignite/releases/download/v0.5.0-alpha.1/SHA256SUMS&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c6cee9dfbc5fd2505d93dcb540c2a58c972e48d2922749a5cf3f83dccb3b3c68"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;D2F6:37A4:BC05F:141D6F:5D4A6008&quot;,&quot;originating_url&quot;:&quot;https://github.com/weaveworks/ignite/releases/download/v0.5.0-alpha.1/SHA256SUMS&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6a6168b322edaccca11ce3477705b47232d64ef8cd357b5afc6675c7b2a4f380"
               data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
               Sign&nbsp;up
             </a>
@@ -294,7 +294,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search GitHub"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=DD4X/xOZeWKj1BYx2l6dXGPKXKTUn25UQ1cejbhA6MmWiv8L3LQxCb3IU4vyGK9nTYy0LdcXOT3avvdCFB3u8A=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=DoHa/GgYMat33Juar0aoe00psaFP+L1Ps2agNYOcMIVpXXBrGNxyjyGYXqXLLmB+i4wH/cJGU4iNCh5xAkImPQ=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -421,13 +421,13 @@
 
         <a href="/login?return_to=%2Fweaveworks%2Fignite%2Freleases%2Fdownload%2Fv0.5.0-alpha.1%2FSHA256SUMS"
           class="HeaderMenu-link no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;D2F6:37A4:BBCC1:141D1B:5D4A6005&quot;,&quot;originating_url&quot;:&quot;https://github.com/weaveworks/ignite/releases/download/v0.5.0-alpha.1/SHA256SUMS&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ac44a4ac1f166458c967d9370910657638bc6de9b139b7de283d257f86deff64"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;D2F6:37A4:BC05F:141D6F:5D4A6008&quot;,&quot;originating_url&quot;:&quot;https://github.com/weaveworks/ignite/releases/download/v0.5.0-alpha.1/SHA256SUMS&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="339227f7bc5685a05950dadbdb20f7838827e96742cf7c65b7d14bb428242685"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign&nbsp;in
         </a>
           <a href="/join?source=header"
             class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;D2F6:37A4:BBCC1:141D1B:5D4A6005&quot;,&quot;originating_url&quot;:&quot;https://github.com/weaveworks/ignite/releases/download/v0.5.0-alpha.1/SHA256SUMS&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ac44a4ac1f166458c967d9370910657638bc6de9b139b7de283d257f86deff64"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;D2F6:37A4:BC05F:141D6F:5D4A6008&quot;,&quot;originating_url&quot;:&quot;https://github.com/weaveworks/ignite/releases/download/v0.5.0-alpha.1/SHA256SUMS&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="339227f7bc5685a05950dadbdb20f7838827e96742cf7c65b7d14bb428242685"
             data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
             Sign&nbsp;up
           </a>
