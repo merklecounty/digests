@@ -1,0 +1,10 @@
+2c199f3bf2498016ba33a52dd5e05ba54b28d98e7003419285509a9e50a96f56  https://github.com/etcd-io/etcd/releases/download/v0.4.0/etcd-v0.4.0-darwin-amd64.zip
+9bd053a4641f7b04d1e9295e356333607e6b1bc2a9ec761a6121ccf7012fbf1a  https://github.com/etcd-io/etcd/releases/download/v0.4.0/etcd-v0.4.0-darwin-amd64.zip.gpg
+c0abd104282153acd414528eb23710636685d887ce7373ac7633ebe873f8b370  https://github.com/etcd-io/etcd/releases/download/v0.4.0/etcd-v0.4.0-linux-amd64.tar.gz
+391084c18e9417294c3e040e304fa4890bf5d1d0d4327568444e4c417c46e641  https://github.com/etcd-io/etcd/releases/download/v0.4.0/etcd-v0.4.0-linux-amd64.tar.gz.gpg
+0df6b7efa67c252a293dbdcbc93e20e0396cc1e7f9399f44e8b24e7632ab7e0c  https://github.com/etcd-io/etcd/releases/download/v0.4.0/etcd-v0.4.0-windows-amd64.zip
+bd16e48fbd80413b294de1ed1db575d16f72698c340f897f0d47cb48acc8648e  https://github.com/etcd-io/etcd/releases/download/v0.4.0/etcd-v0.4.0-windows-amd64.zip.gpg
+377a2f4abef68b77c6e307ee9bef80885625b08b8afe15933d4b166d65c8b1d8  https://api.github.com/repos/etcd-io/etcd/zipball/v0.4.0
+5d4bc5aa1c9bcf73fc5fdb792cf9dd5be7b0b2a9170da35ed7c66202529e0f14  https://api.github.com/repos/etcd-io/etcd/tarball/v0.4.0
+0547fcd7a74c2bce500017a7c0ffbbd08cbe6060dfb13845bb6006be90cd112b  https://github.com/etcd-io/etcd/archive/v0.4.0.tar.gz
+fd4d37728caed0fdc46e610a9c44b2cfd9ab7a58af093f80a1a45897f2fae6bb  https://github.com/etcd-io/etcd/archive/v0.4.0.zip
