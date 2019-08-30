@@ -1,0 +1,5 @@
+4e4fabef594dd48c4bd528544b24fe82186c472842553917a1bd9127aadd025e  etcd-v3.4.0-darwin-amd64.zip
+a0be73869ef20989121b5c950c2bfc7bb58bfbd30d285cd3b367e51ecc63501f  etcd-v3.4.0-linux-amd64.tar.gz
+bac0d776ac7fa14a3ec44dc158670929b50c08c54bd90cbc6f2f989187429dd4  etcd-v3.4.0-linux-arm64.tar.gz
+df966d86cd11220657447883d7f67bfbc7ce4994b2ab6d4defbe3c8d5d064799  etcd-v3.4.0-linux-ppc64le.tar.gz
+6447c94d837a281eb9d4cd79a86c937c11be454db499c9cec6c1e215536e58de  etcd-v3.4.0-windows-amd64.zip
