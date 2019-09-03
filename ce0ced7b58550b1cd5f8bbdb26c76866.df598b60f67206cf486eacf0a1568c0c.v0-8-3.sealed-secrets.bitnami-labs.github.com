@@ -66,7 +66,7 @@
   
   <meta name="pjax-timeout" content="1000">
   
-  <meta name="request-id" content="B7EE:020F:80D77A:C5B8E3:5D6E7AA3" data-pjax-transient>
+  <meta name="request-id" content="A152:1432:2FAFD1:4920AA:5D6E7C01" data-pjax-transient>
 
 
   
@@ -77,7 +77,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="B7EE:020F:80D77A:C5B8E3:5D6E7AA3" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="5620539143079492259" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="A152:1432:2FAFD1:4920AA:5D6E7C01" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="5651892649153428481" />
 
 
 
@@ -95,11 +95,11 @@
     <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="NzRkZGMyOTUwMTJiMjU2NWMwZGRiZjIzNTU3ZTU4ZmVhMjEyZGYzNGI2ZTIwZTk2NGFhMGU2ZTVkZTc2ZmNmMnx7InJlbW90ZV9hZGRyZXNzIjoiMzUuMjI2LjE0OS4xNSIsInJlcXVlc3RfaWQiOiJCN0VFOjAyMEY6ODBENzdBOkM1QjhFMzo1RDZFN0FBMyIsInRpbWVzdGFtcCI6MTU2NzUyMTQ0MywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="MjM2MjhhOWEzNDkyN2FiMGUyOTk3YTQzMzFlNjk0MTk5NzE0MTEwZjVmMmE2Y2RkYmYwNjkyMDY0YTcxYTQ1OXx7InJlbW90ZV9hZGRyZXNzIjoiMzUuMjI2LjE0OS4xNSIsInJlcXVlc3RfaWQiOiJBMTUyOjE0MzI6MkZBRkQxOjQ5MjBBQTo1RDZFN0MwMSIsInRpbWVzdGFtcCI6MTU2NzUyMTc5MywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="ACTIONS_V2_ON_MARKETPLACE,MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS">
 
-  <meta name="html-safe-nonce" content="c9ee67a3c18b550c4b4ab6f6ba0f3f79cd74c585">
+  <meta name="html-safe-nonce" content="a66d1155360369ba94049d42524ba58c71238928">
 
   <meta http-equiv="x-pjax-version" content="93ec3c75ee17de1fb939d632a0bcff22">
   
@@ -153,7 +153,7 @@
         <div class="d-flex flex-items-center">
             <a href="/join?source=header"
               class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;B7EE:020F:80D77A:C5B8E3:5D6E7AA3&quot;,&quot;originating_url&quot;:&quot;https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.8.3/SHA256SUMS&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8297fe19fcba3c4c98aaec41c91c41ca512b0463958bc257cec46e263b559c2a"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;A152:1432:2FAFD1:4920AA:5D6E7C01&quot;,&quot;originating_url&quot;:&quot;https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.8.3/SHA256SUMS&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9187896d7fee53e100c18636856f46a75398d9a7786ddea9343a2dc13fc1574f"
               data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
               Sign&nbsp;up
             </a>
@@ -294,7 +294,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search GitHub"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=Iunjot6u4as+Bz5yp4n4NX2gpJP7i9sWUZoBddECsOs0163q8IPfdVomLR/ffCYRN0bLzWXLEoteUCUrmi5hQw=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=GC69V/rcJAa5VM2ZNGsZFXhg+7l3RN5D/ZkCN3tI+O2t32EwuZzckx2U0SGSnIlTeKbyu0pEo5DXEnQsW75RDg=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -421,13 +421,13 @@
 
         <a href="/login?return_to=%2Fbitnami-labs%2Fsealed-secrets%2Freleases%2Fdownload%2Fv0.8.3%2FSHA256SUMS"
           class="HeaderMenu-link no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;B7EE:020F:80D77A:C5B8E3:5D6E7AA3&quot;,&quot;originating_url&quot;:&quot;https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.8.3/SHA256SUMS&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9871a6f8a7649ad950b6ebdc085e2572a5365d6d1f07542718f1352c999c2f4a"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;A152:1432:2FAFD1:4920AA:5D6E7C01&quot;,&quot;originating_url&quot;:&quot;https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.8.3/SHA256SUMS&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="61b8820dc2694523514651542ff8cc005b96aa333b9255d54f7e741484b3580f"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign&nbsp;in
         </a>
           <a href="/join?source=header"
             class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;B7EE:020F:80D77A:C5B8E3:5D6E7AA3&quot;,&quot;originating_url&quot;:&quot;https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.8.3/SHA256SUMS&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9871a6f8a7649ad950b6ebdc085e2572a5365d6d1f07542718f1352c999c2f4a"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;A152:1432:2FAFD1:4920AA:5D6E7C01&quot;,&quot;originating_url&quot;:&quot;https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.8.3/SHA256SUMS&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="61b8820dc2694523514651542ff8cc005b96aa333b9255d54f7e741484b3580f"
             data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
             Sign&nbsp;up
           </a>
